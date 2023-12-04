@@ -1,5 +1,8 @@
 # Automatic-License-Plate-Detection
 
+![03](https://github.com/abdullah1772/Automatic-License-Plate-Detection/assets/88187437/524e397d-d711-400c-b12f-3b1d9cb4740d)
+
+
 🚗 Exciting News! Introducing our latest project: Number Plate Detection with YOLOv8! 🚀
 Ultralytics YOLOv8 is the state-of-the-art in real-time object detection, and it's at the heart of my new project. With its lightning-fast speed and exceptional accuracy, YOLOv8 allows to identify license plates on vehicles in parking lots and on busy highways with unparalleled precision.
 
